@@ -6,6 +6,12 @@ layout: doc
 
 # Changelog
 
+### 17. Jan 2023
+- Favorites
+  - Add 4xLDSR_blended output to show that GFPGAN and CodeFormer can also be used/blended together
+- Multiple Models
+  - Add ART (Accurate Image Restoration with Attention Retractable Transformer) 4x SR outputs for the photos and anime examples
+
 ### 12. Jan 2023
 
 - Update Multiple Models Page
